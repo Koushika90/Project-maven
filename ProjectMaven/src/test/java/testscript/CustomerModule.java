@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 		
 		driver.manage().window().maximize();
 		
-		driver.get("https://www.google.com");
+		driver.get("https://www.fb.com");
 		
 		System.out.println("The title of web page is  " +driver.getTitle());
 		
